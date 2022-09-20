@@ -1,2 +1,2 @@
 # SORTING---I
-Contain 3 different types of sorting and how to perform them.
+Contain different types of sorting methods that are important, and how to perform them.
